@@ -1,0 +1,21 @@
+.NavBar{
+    margin-bottom: 40px;
+    top: 20px;
+    color: crimson;
+}
+
+.general{
+    border: solid 3px;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 40px;
+    color: dimgrey;
+}
+
+.EditDelete{
+    margin-left: 20px;
+}
+
+.spanTable{
+    display: table;
+}
