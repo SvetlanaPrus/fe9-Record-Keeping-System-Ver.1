@@ -11,9 +11,9 @@ import {v4 as uuidv4} from "uuid";
 //Comment: 09.02.2021 -
 //Status: Buttons work, but all design must be review/redone.
 //Order: Create - status can be used checkbox
-//Order: Search - note should be appeared only in one case
-//Order: Clear - NOT WORKING!!!
-//Services: Edit/Create  - Profit must be calculated auto
+//Order: Search - Note should be appeared only in one case
+//Order: Clear filter - not working!
+//Services: Edit/Create  - Profit should be calculated auto
 //Clients: Create/Edit - phone should accept +
 
 function NavBar() {
